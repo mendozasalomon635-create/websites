@@ -1,3 +1,4 @@
+hola
 # User manual
 
 [[toc]]
